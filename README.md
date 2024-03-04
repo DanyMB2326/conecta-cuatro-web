@@ -16,5 +16,5 @@ Este es un juego de 4 en línea desarrollado en JavaScript, HTML y CSS. Permite 
 ## Uso
 
 ¡Disfruta jugando Conecta 4 en línea!
-
+[Conecta 4](https://conecta-cuatro-dany-mb.netlify.app/)
 
